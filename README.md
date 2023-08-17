@@ -15,6 +15,8 @@ Amidst a wealth of medical data and the burgeoning realm of Data Science, a mult
 Individuals afflicted by cardiovascular ailments or those perched on the precipice of high cardiovascular risk—courtesy of factors such as hypertension, diabetes, hyperlipidemia, or pre-existing conditions—require early identification and adept management. Herein lies the potential of a machine learning model to extend its aiding hand. This technological synergy seeks to not only automate a natural conundrum but also direct our gaze toward upcoming challenges, all bolstered by the prowess of AI techniques.
 </br>
 
+# describe data
+
 - Age : age of the patient [years]
 - Sex : sex of the patient [M: Male, F: Female]
 - ChestPainType : chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
@@ -30,7 +32,7 @@ Individuals afflicted by cardiovascular ailments or those perched on the precipi
 
 
 
-
+# worked on
 - Import Necessary Library
 - Handling Duplicates
 - Uniqueness
