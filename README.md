@@ -31,6 +31,23 @@ Individuals afflicted by cardiovascular ailments or those perched on the precipi
 
 
 
+- Import Necessary Library
+- Handling Duplicates
+- Uniqueness
+- Missing Values
+- Describe the Data
+- Exploratory Data Analysis (EDA)
+- Exploring Numerical Features
+- Exploring Categorical Features
+- Correlation Between The Features
+- Preprocessing
+- Bulding model
+- ANN model
+- Other Works
+- conclusion
+
+
+
 <p style="text-align:center"><img src="https://i.imgur.com/ugj24t1.png" style="width:30%"></p>
 
 
